@@ -55,7 +55,7 @@ layers:
   - {t: '-', s: _}
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:apple-keyboard-caps$$
-  - $$mdi:apple-keyboard-command$$
+  - $$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-option$$
   - '2'
   - $$mdi:keyboard-space$$
